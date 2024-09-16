@@ -30,7 +30,7 @@ if __name__ == '__main__':
 #   For Mac Terminal:
 #     export FLASK_APP=app.py
 #   Then run the app with:
-#     flask run
+#     flask run --host=0.0.0.0
 #
 # Note: The FLASK_APP variable is a shell environment variable used by the flask command.
 #       It's different from the environment variables used within the Flask application itself.
